@@ -1,0 +1,6 @@
+this is version 1 of project.
+I want to track.
+Again changed.
+change
+ch
+git staged
